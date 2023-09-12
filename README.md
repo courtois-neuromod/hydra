@@ -1,4 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/facebookresearch/hydra/main/website/static/img/Hydra-Readme-logo2.svg" alt="logo" width="70%" /></p>
+**Note: This fork updates Hydra to a recent [change](https://github.com/facebookincubator/submitit/pull/1729) in the Submitit library that makes it compatible with container technologies (Docker/Podman/Apptainer). Due to current maintenance efforts from the Facebook team this will take a while to make it inside the main Hydra repository. This fork stays up to date my automatically merging with the main branch once per week.**
+
+p align="center"><img src="https://raw.githubusercontent.com/facebookresearch/hydra/main/website/static/img/Hydra-Readme-logo2.svg" alt="logo" width="70%" /></p>
 
 <p align="center">
   <a href="https://pypi.org/project/hydra-core/">
